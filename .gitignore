@@ -16,3 +16,6 @@ output.mp3
 # OS Files
 .DS_Store
 Thumbs.db
+
+ffmpeg-7.1.1-essentials_build/
+
