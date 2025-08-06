@@ -1,0 +1,11 @@
+openai
+python-dotenv
+whisper
+webrtcvad
+pydub
+sounddevice
+numpy
+requests
+colorama
+tqdm
+termcolor
