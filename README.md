@@ -84,7 +84,7 @@ She is designed to uplift, not deceive — and all data stays local unless you o
 
 ---
 
-## 👤 Created by JP & YUGISung
+## 👤 Created by  YUGISung
 
 ---
 
